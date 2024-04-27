@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chetan Badgujar"
+title                    : "Shivraj Bure"
 title_separator          : "-"
-name                     : &name "Chetan Badgujar"
+name                     : &name "Shivraj Bure"
 description              : &description "personal description"
 url                      : https://cmbadgujar10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
