@@ -13,11 +13,11 @@ I am an Assistant Professor (tenure-Track) at the [Department of Biosystems Engi
 
 # Education
 
-**Ph.D.** -- Biological & Agricultural Engineering, Kansas State University, 2022. 
+**BCA** -- SGBAU Amravati University, Amravati ,             2017 – 2020     Percentage - 60.92%. 
 <br/>
-**M.Tech** -- Farm Machinery & Power Engineering, Punjab Agricultural University, 2017.
+**HSC** -- Sant Gadagebaba Junior College Dahigao, Akola ,   2015 – 2017     Percentage – 63.23 %.
 <br/>
-**B.Tech** -- Agricultural Engineering, Dr. PDKV, Akola, 2015.
+**SSC** -- Shobhanatai Chaware Vidyalay , Karanja ,          2014 - 2015     Percentage – 82.80 %.
 
 # Research goals
 
