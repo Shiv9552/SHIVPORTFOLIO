@@ -23,7 +23,7 @@ I am an Assistant Professor (tenure-Track) at the [Department of Biosystems Engi
 
 <p style='padding:0.0em; margin-left:0.0em; display: inline-block;'>  
 <img src="/images/Vision.png" style="zoom:50%;  float:right; padding:0.8em"/>
-<br> I am an Agricultural Engineer by training. My past and current research are centered around Applied Robotics, Mechatronics, Machinery & Artificial Intelligence for food production systems. Our current agricultural system is facing numerous critical challenges, such as labor shortages, safety, high operation cost, etc. Thus, our research program aims to address these critical challenges in our food production system to move toward sustainably feeding the world by 2050 and beyond. My research thrusts range from conventional agricultural machinery to mobile robots, which falls into three primary categories:<br>
+<br> I have professional experience as SAP Technical Consultant with experience on SAP Support projects. Experience includes technical developments, requirement gathering unit testing and documentation. SAP expertise SAP ABAP developments. Working experience on for custom developments:<br>
 </p>
 
 - **Develop & integrate a robotics-based solution:** I believe that intelligently incorporated mobile robotics can provide a valid solution to our major challenges while deepening human-robot collaboration. Moreover, solar-powered, indefatigable, and multiple small robots (swarm robots) are more resilient to unfavorable weather conditions and would bring a paradigm shift in current agricultural practices. Therefore, we aim to ***mesh robotic technology*** with conventional and non-conventional food production.
