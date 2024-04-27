@@ -1,58 +1,24 @@
 ---
-layout: page
-title: Projects
+layout: archive
+title: ""
 permalink: /projects/
-description: Some of the most interesting projects I have worked on.
-nav: true
-nav_order: 2
-display_categories: [Research, Misc.]
-horizontal: false
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+{% include base_path %}
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+# Project at K-State (US):
+1. Fleet of robots for cropland expansion on highly sloped terrain field.
+2. Design, fabrication, and testing of robotic grain drill feed mechanism.
+3. Small ground vehicle testing and vehicle behavior modeling on slopes.
+4. AI-based pest-infested soybean leaf image classification with deep learning techniques
+5. Fleet of robots to combat the invasive Redcedar trees on native grasslands.
+6. Automated insect species detection in stored product environment.
+7. Predictive AI model in grain science and milling.
+
+# Project at PAU & PDKV (India):
+1. Evaluation of solar-tunnel dryer.
+2. Development and evaluation of multi-crop vegetable planter.
+

@@ -1,9 +1,15 @@
 ---
-layout: default
+layout: archive
+title: "CV"
 permalink: /cv/
-title: CV
-description:
-nav: true
-nav_order: 4
-redirect_to: /assets/pdf/cv.pdf
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
+
+
+You can download a PDF copy of my CV [here](https://github.com/cmbadgujar10/cmbadgujar10.github.io/blob/master/files/Resume_CMBadgujar.pdf).
+
+

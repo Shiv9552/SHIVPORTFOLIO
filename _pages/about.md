@@ -1,28 +1,39 @@
 ---
-layout: about
-title: About
 permalink: /
-subtitle:
-
-profile:
-  align: right
-  image: newpp.jpg
-  image_circular: true # crops the image to make it circular
-  address: >
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-<p align="justify">
-I am a first year PhD student in Computer Science at the <a href = "https://cs.uchicago.edu/academics/phd/"> University of Chicago</a>, advised by <a href ="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang</a> and <a href ="https://people.cs.uchicago.edu/~feamster/"> Nick Feamster</a>. I am broadly interested in machine learning methods for performance improvement in computer networks. </p> 
 
-<p align="justify"> Currently I am investigating how foundational models can be built for network data to learn general network dynamics, and how such models can be shared across specific applications or tasks. I have worked on advances in Software Defined Networking, programmable networks and cloud computing in the past. </p>
 
-<p> Additionally I have spent some time working on developing NLP techniques to analyse politcal corpora. </p>
+I am an Assistant Professor (tenure-Track) at the [Department of Biosystems Engineering and Soil Science](https://bess.tennessee.edu/), University of Tennessee, Knoxville.
 
-<p align="justify"> I'm fortunate to be additionally supported by the <a href ="https://news.uchicago.edu/story/205-million-gifts-support-expansion-initiatives-computer-science"> Liew Family Graduate Fellowship</a>. Prior to starting my PhD, I earned my MSc in Electrical Engineering and Information Technology at <a href ="https://ee.ethz.ch/studies/master-s-programmes/main-master.html"> ETH Zurich</a> and my B.Tech in Electronics and Communication Engineering at <a href="https://vit.ac.in/schools/school-of-electronics-engineering">VIT Vellore</a>. </p>
+# Education
 
-<!--- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Ph.D.** -- Biological & Agricultural Engineering, Kansas State University, 2022. 
+<br/>
+**M.Tech** -- Farm Machinery & Power Engineering, Punjab Agricultural University, 2017.
+<br/>
+**B.Tech** -- Agricultural Engineering, Dr. PDKV, Akola, 2015.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+# Research goals
+
+<p style='padding:0.0em; margin-left:0.0em; display: inline-block;'>  
+<img src="/images/Vision.png" style="zoom:50%;  float:right; padding:0.8em"/>
+<br> I am an Agricultural Engineer by training. My past and current research are centered around Applied Robotics, Mechatronics, Machinery & Artificial Intelligence for food production systems. Our current agricultural system is facing numerous critical challenges, such as labor shortages, safety, high operation cost, etc. Thus, our research program aims to address these critical challenges in our food production system to move toward sustainably feeding the world by 2050 and beyond. My research thrusts range from conventional agricultural machinery to mobile robots, which falls into three primary categories:<br>
+</p>
+
+- **Develop & integrate a robotics-based solution:** I believe that intelligently incorporated mobile robotics can provide a valid solution to our major challenges while deepening human-robot collaboration. Moreover, solar-powered, indefatigable, and multiple small robots (swarm robots) are more resilient to unfavorable weather conditions and would bring a paradigm shift in current agricultural practices. Therefore, we aim to ***mesh robotic technology*** with conventional and non-conventional food production.
+
+- **Develop & integrate the precision Ag technologies:** Today's cropping systems are characterized by intensive and uniform crop input application, which is environmentally unsustainable and often costly. Thus, I aim to develop & integrate precision Ag technologies (equipped with advanced sensors, robots, and data) for input optimization & site-specific operation that is critical in reducing environmental footprints and costs.
+
+
+- **Employ & harness the potential of AI:** AI has untapped capabilities to answer the Ag system problems and make meaningful decisions from data. I aim to introduce & implement AI in conventional Ag machines and mobile robots.
+
+
+Lab openings
+======
+Please feel free to email me!! If you are interested in Robotics, Mechatronics, and AI-related projects.
