@@ -13,11 +13,11 @@ I am an Assistant Professor (tenure-Track) at the [Department of Biosystems Engi
 
 # Education
 
-**BCA** -- SGBAU Amravati University, Amravati ,             2017 – 2020     Percentage - 60.92%. 
+**BCA** -- SGBAU Amravati University, Amravati ,             2017 – 2020     -  Percentage - 60.92%. 
 <br/>
-**HSC** -- Sant Gadagebaba Junior College Dahigao, Akola ,   2015 – 2017     Percentage – 63.23 %.
+**HSC** -- Sant Gadagebaba Junior College Dahigao, Akola ,   2015 – 2017     -  Percentage – 63.23 %.
 <br/>
-**SSC** -- Shobhanatai Chaware Vidyalay , Karanja ,          2014 - 2015     Percentage – 82.80 %.
+**SSC** -- Shobhanatai Chaware Vidyalay , Karanja ,          2014 - 2015     -  Percentage – 82.80 %.
 
 # Research goals
 
